@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently doing my **Bachelors in Computer Science** and learning **DevOps**.
 
-- 📝 I regularly write articles on [Devops With Abdullah](https://devopswithabdullah.hashnode.dev/)
+- 📝 I regularly write articles on [DevOps with Abdullah](https://devopswithabdullah.hashnode.dev/)
 
 - 📫 How to reach me **abdullahkoraal@gmail.com**
 
