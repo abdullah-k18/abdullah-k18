@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Altaf</h1>
 <h3 align="center">Computer Science Student and DevOps Enthusiast</h3>
+<p>🔭 I’m currently doing my Bachelors in Computer Science. Apart from that I'm learning DevOps.</p>
+<p>📝 I regularly write articles on <a href="https://devopswithabdullah.hashnode.dev/">DevOps with Abdullah</a>.</p>
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="https://www.linkedin.com/in/abdullah-k18/" target="_blank">
 <img src="https://github.com/abdullah-k18/Github-Profile-README-Generator/blob/main/images/logo.png" alt="LinkedIn Profile" height="30px" width="30px">
