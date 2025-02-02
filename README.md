@@ -26,7 +26,7 @@
 <a align="left" href="https://huggingface.co/abdullah-k18" target="_blank">
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="30px" height="30px" title="Hugging Face">
 </a>
-<a align="left" href="https://agent.ai/agent/sensitive-data-checker" target="_blank">
+<a align="left" href="https://agent.ai/human/abdulla_k18" target="_blank">
 <img src="https://agent.ai/agent.ai-gear/logomark.png" width="30px" height="30px" title="agent.ai">
 </a>
 <h3 align="left">Languages & Tools</h3>
