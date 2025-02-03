@@ -62,6 +62,7 @@
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png" height="150px" title="AssemblyAI Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" height="150px" title="Frontend Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F357%2FGitHub_Completion_Badge.png" height="150px" title="GitHub Copilot 1-Day Build Challenge">
+    <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F359%2FAgent.ai_Completion_Badge.png" height="150px" title="Agent.ai Challenge">
     <br/>
     <br/>
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739134800&v=beta&t=5ttboXwF5Mz5lanOoIUweJZHMmNePXF6E8qbKo4Ub8I" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
