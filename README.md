@@ -29,6 +29,9 @@
 <a align="left" href="https://agent.ai/human/abdulla_k18" target="_blank">
 <img src="https://agent.ai/agent.ai-gear/logomark.png" width="30px" height="30px" title="agent.ai">
 </a>
+<a align="left" href="https://devpost.com/abdullahkoraal" target="_blank">
+<img src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" width="30px" height="30px" title="Devpost">
+</a>
 <h3 align="left">Languages & Tools</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="30px" height="30px" title="Pinecone">
@@ -63,6 +66,7 @@
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" height="150px" title="Frontend Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F357%2FGitHub_Completion_Badge.png" height="150px" title="GitHub Copilot 1-Day Build Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F359%2FAgent.ai_Completion_Badge.png" height="150px" title="Agent.ai Challenge">
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" height="150px" title="Devpost: Hackathon Winner Level 1">
     <br/>
     <br/>
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739134800&v=beta&t=5ttboXwF5Mz5lanOoIUweJZHMmNePXF6E8qbKo4Ub8I" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
