@@ -74,5 +74,6 @@
     <img src="https://media.licdn.com/dms/image/v2/D562DAQHQC-CcgyyJyQ/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1734865421100?e=1739134800&v=beta&t=FXKyYb6m6GBei5swYmo22E3nHt_xjmiun1D8ySvEvlo" width="375px" title="Certificate of Completion: AI for Beginners">
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE8NPCGnE4nRA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1734552795842?e=1739134800&v=beta&t=OZZo9yAct9JvEVWhtjPjrGf1Bkfp-3K5BqaeNgdU-fU" width="375px" title="Certificate of Completion: Data Science & Analytics">
     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFDyzUnxmNhZw/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1732199993489?e=1739134800&v=beta&t=S-inwzK3WZe_tcc1PgybXc3plfWuXcI6HadmjY2xQlY" width="375px" title="Certificate of Participation: Hack49 2024">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQH4de67iJDy3g/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1738698605275?e=1739304000&v=beta&t=V0hajVf8tGsR3cMY2in7FvFMAGlWhwixBvq1CQDRp-Y" width="375px" title="Introduction to AI and Vector Search">
   <div/>
 </p>
