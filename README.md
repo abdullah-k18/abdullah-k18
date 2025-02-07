@@ -49,6 +49,7 @@
   <img src="https://avatars.githubusercontent.com/u/139423088?s=200&v=4" width="30px" height="30px" title="OpenRouter"> 
   <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="30px" height="30px" title="Streamlit">
   <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" width="30px" height="30px" title="Google Colab">
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="30px" height="30px" title="CrewAI">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
