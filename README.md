@@ -80,7 +80,5 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQH454H7x0_C0Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1727201456660?e=1741824000&v=beta&t=vaPBMrS2XO5gwLc3R2EipW2FasUQlLqTj6jqyMGWokc" width="375px" title="Postman API Fundamentals Student Expert">
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQEmDe45g7ID6A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733407132409?e=1741824000&v=beta&t=VRqGLoUTJ62pm1qJb8ia_d2VG8DNkx_rtHGc5i5yU14" width="375px" title="BizzTech 2024">
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQGhRMfgpfUb6w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1711101030816?e=1741824000&v=beta&t=g__qsPneoxvRvJf1KM8VXZkrwAN1r6re7gc0kIqln8Y" width="375px" title="Machine Learning with Python">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEzTM-h2cxY4g/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1738794076819?e=1739401200&v=beta&t=sVqm1dRCd-Jsgokpt4DBsZwOzkEbWPdxGyVTe1u5Fqk" width="375px" title="Introduction to AI and Vector Search">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFGJC1q3M49IQ/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1738794244258?e=1739401200&v=beta&t=AqzpG_JE74gsOX_eAIaJF13ezeCLCHWMLaoVzkOMXeY" width="375px" title="Using Vector Search for Semantic Search">
   <div/>
 </p>
