@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Altaf</h1>
 <h3 align="center">AI Engineer | Co-Founder @ <a href="https://agentsvalley.com/" target="_blank">AgentsValley</a></h3>
-<p>🚀 Passionate about Artificial Intelligence and always eager to explore new AI technologies. I have experience in Generative AI and a solid foundation in machine learning. Currently diving into Genetic AI to expand my expertise. 🚀</p>
+<p>🚀 Passionate about Artificial Intelligence and always eager to explore new AI technologies. I have experience in Generative AI and a solid foundation in machine learning. Currently diving into Agentic AI to expand my expertise. 🚀</p>
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="https://www.linkedin.com/in/abdullah-k18/" target="_blank">
 <img src="https://github.com/abdullah-k18/Github-Profile-README-Generator/blob/main/images/logo.png" alt="LinkedIn Profile" height="30px" width="30px" title="Linkedin">
