@@ -50,6 +50,7 @@
   <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="30px" height="30px" title="Streamlit">
   <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" width="30px" height="30px" title="Google Colab">
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="30px" height="30px" title="CrewAI">
+  <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="30px" height="30px" title="LlamaIndex">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
@@ -80,5 +81,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQH454H7x0_C0Q/feedshare-shrink_1280/feedshare-shrink_1280/0/1727201456660?e=1741824000&v=beta&t=vaPBMrS2XO5gwLc3R2EipW2FasUQlLqTj6jqyMGWokc" width="375px" title="Postman API Fundamentals Student Expert">
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQEmDe45g7ID6A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733407132409?e=1741824000&v=beta&t=VRqGLoUTJ62pm1qJb8ia_d2VG8DNkx_rtHGc5i5yU14" width="375px" title="BizzTech 2024">
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQGhRMfgpfUb6w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1711101030816?e=1741824000&v=beta&t=g__qsPneoxvRvJf1KM8VXZkrwAN1r6re7gc0kIqln8Y" width="375px" title="Machine Learning with Python">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG_C8PTSXxTwQ/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1739043478384?e=1739656800&v=beta&t=jNk66W3uu1gjJQBAKTBcNIRn0laRrH3DVq8JWkIPbC8" width="375px" title="Using Atlas Vector Search for RAG Applications">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG9svOJGbw5wQ/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1739043699043?e=1739656800&v=beta&t=Ij468DCY_Q9yDwazg799v55sQu_ry3gdW0QdF5pGogI" width="375px" title="Atlas Vector Search">
   <div/>
 </p>
