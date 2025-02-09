@@ -57,7 +57,7 @@
 <h3 align="left">Achievements</h3>
 <p>
   <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEuE5N9zAkaEg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727201731948?e=1739131200&v=beta&t=_uNg3d8mQcT4xqkLhgThxT3DmlV8Ci0kHQzHJ_Uj3J0" height="150px" title="Postman API Fundamentals Student Expert">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEuE5N9zAkaEg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727201731948?e=1739739600&v=beta&t=vZchN9VesfOJY9b06mKR_SRhaSt79HWQinbs93xYHWo" height="150px" title="Postman API Fundamentals Student Expert">
     <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="150px" title="Hacktoberfest 2024: Registered">
     <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tumbler-0-0-0.webp" height="150px" title="Hacktoberfest 2024: Level 1">
     <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tumbler-robe-0-0.webp" height="150px" title="Hacktoberfest 2024: Level 2">
@@ -65,7 +65,7 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tumbler-robe-sparkle-moon.webp" height="150px" title="Hacktoberfest 2024: Level 4">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F349%2FHacktoberfest_Challenge-03.png" height="150px" title="2024 Hacktoberfest Writing Challenge">
     <img src="https://images.credly.com/size/340x340/images/c8de44c7-9891-4bae-b3a7-a65ed1c28a2a/blob" height="150px" title="Hack Together: RAG Hack">
-    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE8GD5tMW7AWQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1734462491576?e=1739131200&v=beta&t=k_5NEEP3sNVuxwZ9aZdeZy2eJHKZrgAdFtVADUTtQnM" height="150px" title="Mini Holiday Hackathon 2024 Hacker">
+    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE8GD5tMW7AWQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1734462491576?e=1739739600&v=beta&t=yi0xLx86sromP09Pq9N4FS__37gsCM1hBpqb0cuuVXg" height="150px" title="Mini Holiday Hackathon 2024 Hacker">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png" height="150px" title="AssemblyAI Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" height="150px" title="Frontend Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F357%2FGitHub_Completion_Badge.png" height="150px" title="GitHub Copilot 1-Day Build Challenge">
