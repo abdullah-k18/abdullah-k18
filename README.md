@@ -71,6 +71,7 @@
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F357%2FGitHub_Completion_Badge.png" height="150px" title="DEV Challenges: GitHub Copilot 1-Day Build Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F359%2FAgent.ai_Completion_Badge.png" height="150px" title="DEV Challenges: Agent.ai Challenge">
     <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" height="150px" title="Devpost: Hackathon Winner Level 1">
+    <img src="https://cdn.qwiklabs.com/Q3q8iU%2B3%2F5vrRb%2FHPgI86XIsGLdErHa3uLKJ%2Brxfs7Y%3D" height="150px" title="Generative AI Explorer - Vertex AI">
     <br/>
     <br/>
 <!--     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739883600&v=beta&t=hYrVLQMFkEpDDZ-eRlZHxClfrIDGDYAg2mwYhpAc0X0" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
