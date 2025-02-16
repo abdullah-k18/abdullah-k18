@@ -53,6 +53,7 @@
   <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="30px" height="30px" title="LlamaIndex">
   <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" width="30px" height="30px" title="AutoGen">
   <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" width="30px" height="30px" title="Langflow">
+  <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="30px" height="30px" title="Google Cloud Platform">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
@@ -73,7 +74,12 @@
     <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" height="150px" title="Devpost: Hackathon Winner Level 1">
     <img src="https://cdn.qwiklabs.com/Q3q8iU%2B3%2F5vrRb%2FHPgI86XIsGLdErHa3uLKJ%2Brxfs7Y%3D" height="150px" title="Generative AI Explorer - Vertex AI">
     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
-<!--     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Generative AI Explorer - Vertex AI"> -->
+    <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
+<!--     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
+    <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
+    <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
+    <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
+    <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API"> -->
     <br/>
     <br/>
 <!--     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739883600&v=beta&t=hYrVLQMFkEpDDZ-eRlZHxClfrIDGDYAg2mwYhpAc0X0" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
