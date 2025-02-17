@@ -75,8 +75,8 @@
     <img src="https://cdn.qwiklabs.com/Q3q8iU%2B3%2F5vrRb%2FHPgI86XIsGLdErHa3uLKJ%2Brxfs7Y%3D" height="150px" title="Generative AI Explorer - Vertex AI">
     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
-<!--     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
-    <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
+    <img src="https://cdn.qwiklabs.com/Wm106BMo1s08lU7N%2BBp7tWioQwpDFr1R60VxPqqF8r0%3D" height="150px" title="Create ML Models with BigQuery ML">
+<!--     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API"> -->
