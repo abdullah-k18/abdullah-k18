@@ -77,9 +77,9 @@
     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
     <img src="https://cdn.qwiklabs.com/Wm106BMo1s08lU7N%2BBp7tWioQwpDFr1R60VxPqqF8r0%3D" height="150px" title="Create ML Models with BigQuery ML">
     <img src="https://cdn.qwiklabs.com/LLap1XFnTYXllIUjms9Kl6dVtMr%2FsiX2BTz1ElNuDHg%3D" height="150px" title="Build and Deploy Machine Learning Solutions on Vertex AI">
-<!--     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
-    <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
-    <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API"> -->
+    <img src="https://cdn.qwiklabs.com/PMvEwj92V3P6rguG5fqCAhaQ9eK49tlm5CVMnyszVlg%3D" height="150px" title="Intro to ML: Language Processing">
+    <img src="https://cdn.qwiklabs.com/A13uL5L4k9eJte78rdSAoCACA7eAemssidFBZbqoe0o%3D" height="150px" title="Intro to ML: Image Processing">
+    <img src="https://cdn.qwiklabs.com/NZjkRzcCusZ61oE8mWpjEmZktZUXkmO%2F%2F19TokDAnsU%3D" height="150px" title="Create Generative AI Apps on Google Cloud">
     <br/>
     <br/>
 <!--     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739883600&v=beta&t=hYrVLQMFkEpDDZ-eRlZHxClfrIDGDYAg2mwYhpAc0X0" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
