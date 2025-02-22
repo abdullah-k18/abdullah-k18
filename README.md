@@ -82,6 +82,7 @@
     <img src="https://cdn.qwiklabs.com/A13uL5L4k9eJte78rdSAoCACA7eAemssidFBZbqoe0o%3D" height="150px" title="Intro to ML: Image Processing">
     <img src="https://cdn.qwiklabs.com/NZjkRzcCusZ61oE8mWpjEmZktZUXkmO%2F%2F19TokDAnsU%3D" height="150px" title="Create Generative AI Apps on Google Cloud">
     <img src="https://media.datacamp.com/legacy/Certification/Skill%20Verification/ai_fundamentals.png" height="150px" title="DataCamp Certified: AI Fundamentals">
+    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/5a875c2c9cb72d1a672d5ab781c9f4347fbf9605.png" height="150px" title="DataCamp: Fine-Tuning with Llama 3">
     <br/>
     <br/>
 <!--     <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFU7d3mSBRoQA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1728232969383?e=1739883600&v=beta&t=hYrVLQMFkEpDDZ-eRlZHxClfrIDGDYAg2mwYhpAc0X0" width="375px" title="Galactic Problem Solver: NASA Space App Challenge">
