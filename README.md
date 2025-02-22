@@ -53,8 +53,8 @@
   <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="30px" height="30px" title="LlamaIndex">
   <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" width="30px" height="30px" title="AutoGen">
   <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" width="30px" height="30px" title="Langflow">
-  <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="30px" height="30px" title="Google Cloud Platform">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/2048px-Vertex_AI_Logo.svg.png" width="30px" height="30px" title="Vertex AI">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/2048px-Vertex_AI_Logo.svg.png" width="30px" height="30px" title="Google Cloud Platform: Vertex AI">
+  <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63d10d4e8eaa4831005e92b5/a3R8vs2eGE578q4LEpaHB.png" width="30px" height="30px" title="smolagents">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
