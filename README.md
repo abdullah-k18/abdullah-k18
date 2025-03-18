@@ -32,6 +32,9 @@
 <a align="left" href="https://devpost.com/abdullahkoraal" target="_blank">
 <img src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" width="30px" height="30px" title="Devpost">
 </a>
+<a align="left" href="https://www.boot.dev/u/abdullah-k18" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/72108331?s=200&v=4" width="30px" height="30px" title="Boot.dev">
+</a>
 <h3 align="left">Languages & Tools</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="30px" height="30px" title="Pinecone">
