@@ -38,7 +38,10 @@
 <a align="left" href="https://learn.microsoft.com/en-us/users/abdullah-k18/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="30px" height="30px" title="Microsoft Learn">
 </a>
-<h3 align="left">Languages & Tools</h3>
+<a align="left" href="https://gitlab.com/abdullah-k18" target="_blank">
+<img src="https://static-00.iconduck.com/assets.00/gitlab-icon-1024x942-f30d1qro.png" width="30px" height="30px" title="GitLab">
+</a>
+<h3 align="left">Languages, Tools, & Frameworks</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="30px" height="30px" title="Pinecone">
   <img src="https://github.com/abdullah-k18/Github-Profile-README-Generator/blob/main/images/javascript.svg" width="30px" height="30px" title="JavaScript">
@@ -60,7 +63,6 @@
   <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" width="30px" height="30px" title="AutoGen">
   <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" width="30px" height="30px" title="Langflow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/2048px-Vertex_AI_Logo.svg.png" width="30px" height="30px" title="Google Cloud Platform: Vertex AI">
-  <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63d10d4e8eaa4831005e92b5/a3R8vs2eGE578q4LEpaHB.png" width="30px" height="30px" title="smolagents">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
