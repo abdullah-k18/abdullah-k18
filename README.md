@@ -93,5 +93,6 @@
     <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/5a875c2c9cb72d1a672d5ab781c9f4347fbf9605.png" height="150px" title="DataCamp: Fine-Tuning with Llama 3">
     <img src="https://images.credly.com/size/340x340/images/730e9c82-7869-4288-b580-9f8500a94465/blob" height="150px" title="MongoDB Skill (Vector Search Fundamentals): Building AI-Powered Search with MongoDB Vector Search">
     <img src="https://images.credly.com/size/340x340/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" height="150px" title="MongoDB Skill (RAG with MongoDB): Building RAG Apps Using MongoDB">
+    <img src="https://github.com/user-attachments/assets/d728dc6a-efa0-4097-bc7c-77bc77ba317e" height="150px" title="ExamPro: GenAI Bootcamp (Blue Squad)">
   <div/>
 </p>
