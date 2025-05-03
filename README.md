@@ -41,6 +41,9 @@
 <a align="left" href="https://gitlab.com/abdullah-k18" target="_blank">
 <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-1024x942-f30d1qro.png" width="30px" height="30px" title="GitLab">
 </a>
+<a align="left" href="https://www.cloudskillsboost.google/public_profiles/af7812cf-2266-4107-85a0-194c2a5e1d59" target="_blank">
+<img src="https://images.store.crowdstrike.com/9748z14dd5zg/7MGTtSyAi2Z29Dmiwkusu/30de0bcae755e11aebe7e87823feb9cb/Googlecloud_icon_square.png" width="30px" height="30px" title="Google Cloud Skills Boost">
+</a>
 <h3 align="left">Languages, Tools, & Frameworks</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="30px" height="30px" title="Pinecone">
