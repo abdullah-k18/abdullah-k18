@@ -97,5 +97,6 @@
     <img src="https://images.credly.com/size/340x340/images/730e9c82-7869-4288-b580-9f8500a94465/blob" height="150px" title="MongoDB Skill (Vector Search Fundamentals): Building AI-Powered Search with MongoDB Vector Search">
     <img src="https://images.credly.com/size/340x340/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" height="150px" title="MongoDB Skill (RAG with MongoDB): Building RAG Apps Using MongoDB">
     <img src="https://github.com/user-attachments/assets/d728dc6a-efa0-4097-bc7c-77bc77ba317e" height="150px" title="ExamPro: GenAI Bootcamp (Blue Squad)">
+  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" height="150px" title="Agentblazer Champion 2025">
   <div/>
 </p>
