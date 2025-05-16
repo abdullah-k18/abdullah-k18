@@ -69,6 +69,12 @@
   <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" width="30px" height="30px" title="AutoGen">
   <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" width="30px" height="30px" title="Langflow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/2048px-Vertex_AI_Logo.svg.png" width="30px" height="30px" title="Google Cloud Platform: Vertex AI">
+  <img src="https://www.bluematador.com/hs-fs/hubfs/blog/new/How%20Many%20Packets%20per%20Second%20PPS%20in%20Amazon%20EC2/BM-EC2-post-icon.png?width=200&name=BM-EC2-post-icon.png" width="30px" height="30px" title="Amazon Web Services: EC2">
+  <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="30px" height="30px" title="Docker">
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="30px" title="Supabase">
+  <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="30px" height="30px" title="Firebase">
+  <img src="https://avatars.githubusercontent.com/u/983194?s=200&v=4" width="30px" height="30px" title="Replit">
+  <img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="30px" height="30px" title="Next.js">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
