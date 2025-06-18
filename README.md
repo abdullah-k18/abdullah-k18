@@ -117,5 +117,6 @@
     <img src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/cCkeGw0.png" height="150px" title="Boot.dev: Archmage">
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" height="150px" title="Agentblazer Champion 2025">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F376%2FAsset_6_2x.png" height="150px" title="DEV Challenges: Amazon Q Developer 'Quack the Code' Challenge">
+    <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" title="Microsoft Hack Together: AI Agents Hackathon">
   <div/>
 </p>
