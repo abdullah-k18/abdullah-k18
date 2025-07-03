@@ -89,6 +89,7 @@
   <img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="30px" height="30px" title="Next.js">
   <img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" width="30px" height="30px" title="Chainlit">
   <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="30px" height="30px" title="n8n">
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-300x300.png" width="30px" height="30px" title="Google Gemini">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
