@@ -2,6 +2,9 @@
 <h3 align="center">AI Engineer</h3>
 <p>🚀 Passionate about Artificial Intelligence and always eager to explore new AI technologies. I have experience in Generative AI and a solid foundation in machine learning. Currently diving into Agentic AI to expand my expertise. 🚀</p>
 <h3 align="left">Connect with me:</h3>
+<a align="left" href="mailto:abdullahkoraal@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/gmail/gmail.png" alt="LinkedIn Profile" height="30px" width="30px" title="Email">
+</a>
 <a align="left" href="https://www.linkedin.com/in/abdullah-k18/" target="_blank">
 <img src="https://github.com/abdullah-k18/Github-Profile-README-Generator/blob/main/images/logo.png" alt="LinkedIn Profile" height="30px" width="30px" title="Linkedin">
 </a>
@@ -31,6 +34,9 @@
 </a>
 <a align="left" href="https://devpost.com/abdullahkoraal" target="_blank">
 <img src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" width="30px" height="30px" title="Devpost">
+</a>
+<a align="left" href="https://dorahacks.io/hacker/abdullah-k18" target="_blank">
+<img src="https://cryptototem.com/wp-content/uploads/2023/06/DoraHacks-logo.jpg" width="30px" height="30px" title="DoraHacks">
 </a>
 <a align="left" href="https://www.boot.dev/u/abdullah-k18" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/72108331?s=200&v=4" width="30px" height="30px" title="Boot.dev">
