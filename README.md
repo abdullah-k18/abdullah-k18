@@ -57,7 +57,7 @@
 <img src="https://avatars.githubusercontent.com/u/104222293?s=200&v=4" width="30px" height="30px" title="Ready Tensor">
 </a>
 <a align="left" href="https://community.aws/@abdullahk18" target="_blank">
-<img src="https://community.aws/img/favicons/android-icon-192x192.png" width="30px" height="30px" title="AWS Community">
+<img src="https://builder.aws.com/builder-favicon.svg" width="30px" height="30px" title="AWS Builder">
 </a>
 <h3 align="left">Languages, Tools, & Frameworks</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
@@ -102,12 +102,12 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tumbler-robe-sparkle-moon.webp" height="150px" title="Hacktoberfest 2024: Level 4">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F349%2FHacktoberfest_Challenge-03.png" height="150px" title="DEV Challenges: 2024 Hacktoberfest Writing Challenge">
     <img src="https://images.credly.com/size/340x340/images/c8de44c7-9891-4bae-b3a7-a65ed1c28a2a/blob" height="150px" title="Microsoft Hack Together: RAG Hack">
-    <img src="https://templates.images.credential.net/1734444452338981571626932552229.png" height="150px" title="Codédex Mini Holiday Hackathon 2024 Hacker">
+    <img src="https://templates.images.credential.net/1734444452338981571626932552229.png" height="150px" width="150px" title="Codédex Mini Holiday Hackathon 2024 Hacker">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F351%2FAssemblyAI_Badges-04.png" height="150px" title="DEV Challenges: AssemblyAI Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" height="150px" title="DEV Challenges: Frontend Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F357%2FGitHub_Completion_Badge.png" height="150px" title="DEV Challenges: GitHub Copilot 1-Day Build Challenge">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F359%2FAgent.ai_Completion_Badge.png" height="150px" title="DEV Challenges: Agent.ai Challenge">
-    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" height="150px" title="Devpost: Hackathon Winner Level 1">
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png" height="150px" width="150px" title="Devpost: Hackathon Winner Level 1">
     <img src="https://cdn.qwiklabs.com/Q3q8iU%2B3%2F5vrRb%2FHPgI86XIsGLdErHa3uLKJ%2Brxfs7Y%3D" height="150px" title="Generative AI Explorer - Vertex AI">
     <img src="https://cdn.qwiklabs.com/JOmYLpYKK1IZvJx%2FtSZh%2B5fTLcpu37J8lMm8v0qQm6Q%3D" height="150px" title="Analyze Sentiment with Natural Language API">
     <img src="https://cdn.qwiklabs.com/9l3ABNdsyhUC0bPIs6Vf1sAGsC4nb7UGe9GuP39%2FwKI%3D" height="150px" title="Analyze Speech and Language with Google APIs">
@@ -125,7 +125,7 @@
     <img src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/cCkeGw0.png" height="150px" title="Boot.dev: Archmage">
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" height="150px" title="Agentblazer Champion 2025">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F376%2FAsset_6_2x.png" height="150px" title="DEV Challenges: Amazon Q Developer 'Quack the Code' Challenge">
-    <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" title="Microsoft Hack Together: AI Agents Hackathon">
+    <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" width="150px" title="Microsoft Hack Together: AI Agents Hackathon">
     <img src="https://images.credly.com/size/340x340/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" height="150px" title="Building GenAI Applications with MongoDB">
   <div/>
 </p>
