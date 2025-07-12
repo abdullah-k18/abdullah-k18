@@ -56,8 +56,8 @@
 <a align="left" href="https://app.readytensor.ai/users/abdullah-k18" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/104222293?s=200&v=4" width="30px" height="30px" title="Ready Tensor">
 </a>
-<a align="left" href="https://community.aws/@abdullahk18" target="_blank">
-<img src="https://builder.aws.com/builder-favicon.svg" width="30px" height="30px" title="AWS Builder">
+<a align="left" href="https://builder.aws.com/community/@abdullahk18" target="_blank">
+<img src="https://builder.aws.com/builder-favicon.svg" width="30px" height="30px" title="AWS Builder Center">
 </a>
 <h3 align="left">Languages, Tools, & Frameworks</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
