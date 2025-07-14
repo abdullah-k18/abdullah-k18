@@ -59,6 +59,9 @@
 <a align="left" href="https://builder.aws.com/community/@abdullahk18" target="_blank">
 <img src="https://builder.aws.com/builder-favicon.svg" width="30px" height="30px" title="AWS Builder Center">
 </a>
+<a align="left" href="https://www.credly.com/users/abdullah-k18" target="_blank">
+<img src="https://cdn.jotfor.ms/image/r/aHR0cHM6Ly9maWxlcy5qb3Rmb3JtLmNvbS9qb3Rmb3JtYXBwcy96YXBpZXItaW50ZWdyYXRpb24tY3JlZGx5LWM0OTY0OWU1NzZjOTZlZDZmNGEzMTk2NzZiNzg5OGIwLnBuZw==/credly-.png?w=1200" width="30px" height="30px" title="Credly">
+</a>
 <h3 align="left">Languages, Tools, & Frameworks</h3>
 <p><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="30px" height="30px" title="LangChain">
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="30px" height="30px" title="Pinecone">
