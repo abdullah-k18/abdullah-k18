@@ -128,5 +128,6 @@
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F376%2FAsset_6_2x.png" height="150px" title="DEV Challenges: Amazon Q Developer 'Quack the Code' Challenge">
     <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" width="150px" title="Microsoft Hack Together: AI Agents Hackathon">
     <img src="https://images.credly.com/size/340x340/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" height="150px" title="Building GenAI Applications with MongoDB">
+    <img src="https://images.credly.com/size/340x340/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" height="150px" title="MongoDB Skill (AI Agents with MongoDB): Building AI Agents with MongoDB">
   <div/>
 </p>
