@@ -132,5 +132,6 @@
     <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" width="150px" title="Microsoft Hack Together: AI Agents Hackathon">
     <img src="https://images.credly.com/size/340x340/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" height="150px" title="Building GenAI Applications with MongoDB">
     <img src="https://images.credly.com/size/340x340/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" height="150px" title="MongoDB Skill (AI Agents with MongoDB): Building AI Agents with MongoDB">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_NaJ7Njj4ubJ7luZLdnBtH9guhMY8WqTT3bUeMaCXZQKMB0Rem3QE-2uuQCo03vBIkc4JVwh7wkRr8HEAH23OcCseOLoofm9sD8NUwZAlDqCPDO2tAEr-6aCpfv9OCTYbeN2E4NcfPki2BcZMzjxKUo0gQE=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/381/DEV_Education_Badge.png" height="150px" title="Build Apps with Google AI Studio">
   <div/>
 </p>
