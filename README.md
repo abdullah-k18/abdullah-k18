@@ -14,9 +14,6 @@
 <a align="left" href="https://discordapp.com/users/1250502704942284915" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4" alt="LinkedIn Profile" height="30px" width="30px" title="Discord">
 </a>
-<a align="left" href="https://x.com/abdulla_k18/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" height="30px" width="30px" title="X">
-</a>
 <a align="left" href="https://dev.to/abdullah-k18" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/13521919?s=200&v=4" alt="LinkedIn Profile" height="30px" width="30px" title="DEV Community">
 </a>
@@ -45,7 +42,7 @@
 <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="30px" height="30px" title="Microsoft Learn">
 </a>
 <a align="left" href="https://gitlab.com/abdullah-k18" target="_blank">
-<img src="https://static-00.iconduck.com/assets.00/gitlab-icon-1024x942-f30d1qro.png" width="30px" height="30px" title="GitLab">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="30px" height="30px" title="GitLab">
 </a>
 <a align="left" href="https://www.cloudskillsboost.google/public_profiles/af7812cf-2266-4107-85a0-194c2a5e1d59" target="_blank">
 <img src="https://images.store.crowdstrike.com/9748z14dd5zg/7MGTtSyAi2Z29Dmiwkusu/30de0bcae755e11aebe7e87823feb9cb/Googlecloud_icon_square.png" width="30px" height="30px" title="Google Cloud Skills Boost">
@@ -133,5 +130,6 @@
     <img src="https://images.credly.com/size/340x340/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" height="150px" title="Building GenAI Applications with MongoDB">
     <img src="https://images.credly.com/size/340x340/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" height="150px" title="MongoDB Skill (AI Agents with MongoDB): Building AI Agents with MongoDB">
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NaJ7Njj4ubJ7luZLdnBtH9guhMY8WqTT3bUeMaCXZQKMB0Rem3QE-2uuQCo03vBIkc4JVwh7wkRr8HEAH23OcCseOLoofm9sD8NUwZAlDqCPDO2tAEr-6aCpfv9OCTYbeN2E4NcfPki2BcZMzjxKUo0gQE=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/381/DEV_Education_Badge.png" height="150px" title="Build Apps with Google AI Studio">
+    <img src="https://media2.dev.to/dynamic/image/width=250,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F384%2FRunner_H_Participant1.png" height="150px" title="DEV Challenges: Runner H 'AI Agent Prompting' Challenge">
   <div/>
 </p>
