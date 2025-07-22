@@ -131,5 +131,6 @@
     <img src="https://images.credly.com/size/340x340/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" height="150px" title="MongoDB Skill (AI Agents with MongoDB): Building AI Agents with MongoDB">
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NaJ7Njj4ubJ7luZLdnBtH9guhMY8WqTT3bUeMaCXZQKMB0Rem3QE-2uuQCo03vBIkc4JVwh7wkRr8HEAH23OcCseOLoofm9sD8NUwZAlDqCPDO2tAEr-6aCpfv9OCTYbeN2E4NcfPki2BcZMzjxKUo0gQE=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/381/DEV_Education_Badge.png" height="150px" title="Build Apps with Google AI Studio">
     <img src="https://media2.dev.to/dynamic/image/width=250,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F384%2FRunner_H_Participant1.png" height="150px" title="DEV Challenges: Runner H 'AI Agent Prompting' Challenge">
+    <img src="https://app.readytensor.ai/_next/image?url=%2Fimages%2Fbadges%2Frag_expert.png&w=128&q=75" height="150px" title="Ready Tensor: RAG Expert">
   <div/>
 </p>
