@@ -90,7 +90,7 @@
   <img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" width="30px" height="30px" title="Chainlit">
   <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="30px" height="30px" title="n8n">
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-300x300.png" width="30px" height="30px" title="Google Gemini">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_ai_studio_logo.png" width="30px" height="30px" title="Google AI Studio">
+  <img src="https://www.gstatic.com/aistudio/ai_studio_favicon_2_96x96.png" width="30px" height="30px" title="Google AI Studio">
 </p>
 <h3 align="left">Achievements</h3>
 <p>
