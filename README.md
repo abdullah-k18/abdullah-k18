@@ -132,5 +132,6 @@
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NaJ7Njj4ubJ7luZLdnBtH9guhMY8WqTT3bUeMaCXZQKMB0Rem3QE-2uuQCo03vBIkc4JVwh7wkRr8HEAH23OcCseOLoofm9sD8NUwZAlDqCPDO2tAEr-6aCpfv9OCTYbeN2E4NcfPki2BcZMzjxKUo0gQE=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/381/DEV_Education_Badge.png" height="150px" title="Build Apps with Google AI Studio">
     <img src="https://media2.dev.to/dynamic/image/width=250,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F384%2FRunner_H_Participant1.png" height="150px" title="DEV Challenges: Runner H 'AI Agent Prompting' Challenge">
     <img src="https://app.readytensor.ai/_next/image?url=%2Fimages%2Fbadges%2Frag_expert.png&w=128&q=75" height="150px" title="Ready Tensor: RAG Expert">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_NZzi4o9xFN4bmbso9j8XLS0w3Ac0teh3BdLa6uLiToQpV8f6OJat2PjdtUJ75uB4hzJjp5xS5LXNfLftnh_ZClp7QZlOPGPy0Njdczii_IP0uEevNZ8p4xkilD6neaBWoicXxJERO8U=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/391/Asset_91.png" height="150px" title="DEV Challenges: Redis AI Challenge">
   <div/>
 </p>
