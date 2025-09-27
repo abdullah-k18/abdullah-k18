@@ -133,5 +133,6 @@
     <img src="https://media2.dev.to/dynamic/image/width=250,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F384%2FRunner_H_Participant1.png" height="150px" title="DEV Challenges: Runner H 'AI Agent Prompting' Challenge">
     <img src="https://app.readytensor.ai/_next/image?url=%2Fimages%2Fbadges%2Frag_expert.png&w=128&q=75" height="150px" title="Ready Tensor: RAG Expert">
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NZzi4o9xFN4bmbso9j8XLS0w3Ac0teh3BdLa6uLiToQpV8f6OJat2PjdtUJ75uB4hzJjp5xS5LXNfLftnh_ZClp7QZlOPGPy0Njdczii_IP0uEevNZ8p4xkilD6neaBWoicXxJERO8U=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/391/Asset_91.png" height="150px" title="DEV Challenges: Redis AI Challenge">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 0 Registered">
   <div/>
 </p>
