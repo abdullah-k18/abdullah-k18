@@ -127,12 +127,15 @@
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" height="150px" title="Agentblazer Champion 2025">
     <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F376%2FAsset_6_2x.png" height="150px" title="DEV Challenges: Amazon Q Developer 'Quack the Code' Challenge">
     <img src="https://images.credly.com/size/110x110/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" height="150px" width="150px" title="Microsoft Hack Together: AI Agents Hackathon">
+    <img src="https://github.com/user-attachments/assets/46504af4-40e3-43fa-84ef-5df45768b978" height="150px" title="GWR">
     <img src="https://images.credly.com/size/340x340/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" height="150px" title="Building GenAI Applications with MongoDB">
     <img src="https://images.credly.com/size/340x340/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" height="150px" title="MongoDB Skill (AI Agents with MongoDB): Building AI Agents with MongoDB">
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NaJ7Njj4ubJ7luZLdnBtH9guhMY8WqTT3bUeMaCXZQKMB0Rem3QE-2uuQCo03vBIkc4JVwh7wkRr8HEAH23OcCseOLoofm9sD8NUwZAlDqCPDO2tAEr-6aCpfv9OCTYbeN2E4NcfPki2BcZMzjxKUo0gQE=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/381/DEV_Education_Badge.png" height="150px" title="Build Apps with Google AI Studio">
     <img src="https://media2.dev.to/dynamic/image/width=250,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F384%2FRunner_H_Participant1.png" height="150px" title="DEV Challenges: Runner H 'AI Agent Prompting' Challenge">
     <img src="https://app.readytensor.ai/_next/image?url=%2Fimages%2Fbadges%2Frag_expert.png&w=128&q=75" height="150px" title="Ready Tensor: RAG Expert">
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NZzi4o9xFN4bmbso9j8XLS0w3Ac0teh3BdLa6uLiToQpV8f6OJat2PjdtUJ75uB4hzJjp5xS5LXNfLftnh_ZClp7QZlOPGPy0Njdczii_IP0uEevNZ8p4xkilD6neaBWoicXxJERO8U=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/391/Asset_91.png" height="150px" title="DEV Challenges: Redis AI Challenge">
+    <img src="https://www.codedex.io/images/badges/goldenCourseBadges/github-copilot.png" height="150px" title="Codédex: GitHub Copilot">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 0 Registered">
   <div/>
+
 </p>
