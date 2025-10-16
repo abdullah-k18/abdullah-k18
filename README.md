@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Altaf</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">AI / Backend Engineer</h3>
 <p>🚀 Passionate about Artificial Intelligence and always eager to explore new AI technologies. I have experience in Generative AI and a solid foundation in machine learning. Currently diving into Agentic AI to expand my expertise. 🚀</p>
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="mailto:abdullahkoraal@gmail.com" target="_blank">
