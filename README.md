@@ -136,6 +136,7 @@
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NZzi4o9xFN4bmbso9j8XLS0w3Ac0teh3BdLa6uLiToQpV8f6OJat2PjdtUJ75uB4hzJjp5xS5LXNfLftnh_ZClp7QZlOPGPy0Njdczii_IP0uEevNZ8p4xkilD6neaBWoicXxJERO8U=s0-d-e1-ft#https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/391/Asset_91.png" height="150px" title="DEV Challenges: Redis AI Challenge">
     <img src="https://www.codedex.io/images/badges/goldenCourseBadges/github-copilot.png" height="150px" title="Codédex: GitHub Copilot">
     <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 0 Registered">
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 1">
   <div/>
 
 </p>
