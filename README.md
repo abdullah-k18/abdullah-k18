@@ -138,6 +138,7 @@
     <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 0 Registered">
     <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 1">
     <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 2">
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 3">    
   <div/>
 
 </p>
