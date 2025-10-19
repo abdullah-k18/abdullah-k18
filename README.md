@@ -138,7 +138,10 @@
     <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 0 Registered">
     <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 1">
     <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 2">
-    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 3">    
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 3">
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" height="150px" title="Hacktoberfest 2025: Level 4">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="150px" title="Hacktoberfest 2025: Tree Planted">
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" height="150px" title="Hacktoberfest 2025: Supercontributor">
   <div/>
 
 </p>
